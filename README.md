@@ -4,3 +4,4 @@
 ## - Printing Fizz at defined conditional iteration
 ## - Raising Value Error
 ## - Finding quotient and remainder without using multiplcation and division
+## - Create dataframe of unequal rows
