@@ -6,3 +6,4 @@
 ## - Finding quotient and remainder without using multiplication and division
 ## - Create dataframe of unequal rows
 ## - Palindrome - Two approaches
+## - Swapping without using third variable
